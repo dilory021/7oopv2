@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\7oop\7oop\bin\Debug\net8.0\7oop.exe
+C:\Users\User\RiderProjects\7oop\7oop\bin\Debug\net8.0\7oop.deps.json
+C:\Users\User\RiderProjects\7oop\7oop\bin\Debug\net8.0\7oop.runtimeconfig.json
+C:\Users\User\RiderProjects\7oop\7oop\bin\Debug\net8.0\7oop.dll
+C:\Users\User\RiderProjects\7oop\7oop\bin\Debug\net8.0\7oop.pdb
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.AssemblyInfo.cs
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.dll
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\refint\7oop.dll
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.pdb
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\7oop.genruntimeconfig.cache
+C:\Users\User\RiderProjects\7oop\7oop\obj\Debug\net8.0\ref\7oop.dll
